@@ -1,0 +1,7 @@
+bug report name
+unique ID, priority, reporter, assignee
+preconditions
+STR
+Ex Result
+Ac Result
+attachments
