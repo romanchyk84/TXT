@@ -1,0 +1,8 @@
+Linix terminal
+Git bash
+Git Hub
+Postman
+Jmeter
+Charles
+Data Base
+Python
