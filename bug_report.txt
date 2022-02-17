@@ -4,4 +4,5 @@ preconditions
 STR
 Ex Result
 Ac Result
-attachments
+прикрепить скриншот
+прикрепить видео, если есть
