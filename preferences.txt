@@ -1,5 +1,5 @@
-Любимый фильм : Назад в будущее
-Любимый сериал: Санта Барбара
-Любимая еда : Сало
-Любимое время года : Зима
-Старан для посещения : USA
+Favorite movie : Back to the future
+Favorite series : Santa Barbara
+Favorite dish : French frie
+Favorite season : Fall
+Prefered country : Canada

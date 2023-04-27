@@ -1,4 +1,4 @@
-Linix terminal
+Terminal
 Git bash
 Git Hub
 Postman
