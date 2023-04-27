@@ -1,6 +1,8 @@
-ФИО : Моторин Роман
-возраст: 37
-дети : есть
-домашние животные : нет
-Желаемая ЗП: 1000 уе
-город : Киев
+Name : Roman
+Last name: Motorin
+Age : 38
+Phone number : +1438-528-9383
+Country : Canada
+Spouse: Yes
+Pets : No
+Prefered salary : 3000 CAD
