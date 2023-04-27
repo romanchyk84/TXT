@@ -1,6 +1,11 @@
-bug report name
-unique ID, priority, reporter, assignee
-preconditions
+unique ID
+Summary
+System info
+priority
+reporter
+assignee
+Bug Description
+preconditions if needed
 STR
 Ex Result
 Ac Result
